@@ -4,7 +4,7 @@
 
 | **Objective** | **Users** | **Actions** | **Usage Frequency** |
 |---------------|-----------|-------------|----------------------|
-| To get informed of the smartphone market in India for the launch of a new product. | Product managers and marketing |  Design a model and determine it's price based on the market | Monthly |
+| To get informed of the smartphone market in India for the launch of a new product. | Product managers and marketing. |  Design a model and determine it's price based on the market. | Monthly. |
 
 ![image](https://github.com/user-attachments/assets/118abb42-b35b-4c0e-830b-f0956b8236b3)
 
