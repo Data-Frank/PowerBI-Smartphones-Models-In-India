@@ -1,4 +1,4 @@
-# PowerBI-Smartphones-In-India
+# PowerBI-Smartphone-Models-In-India
 
 ### 📊 Dashboard/Story Usage Overview
 
