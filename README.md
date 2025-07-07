@@ -23,4 +23,5 @@
 
 ## Recommendation
 - One could focus on more the luxerious segment, since there are very few phones above 2K. Before doing this I would recommend researching the sales of these products first.
-- Since there is only a small correlation between selling price and the technical features of a phone, I would recommend reflecting on how much it costs to upgrade the technical features versus how much one could increase the selling price by doing this.
+- Since there is only a small correlation between selling price and the technical features of a phone, I would recommend considering on how much it costs to upgrade the technical features versus how much one could increase the selling price by doing this.
+- Since there is strong correlation between selling price and the amount of cameras of a phone, I would recommend considering on how much it costs to increase the amount of cameras on the phone versus how much one could increase the selling price by doing this.
